@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.0.0)
+  - RxBlocking (2.0.0-alpha.4):
+    - RxSwift (~> 2.0.0-alpha)
+  - RxCocoa (2.0.0-alpha.4):
+    - RxSwift (~> 2.0.0-alpha)
+  - RxSwift (2.0.0-alpha.4)
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - RxBlocking (~> 2.0.0-alpha)
+  - RxCocoa (~> 2.0.0-alpha)
+  - RxSwift (~> 2.0.0-alpha)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: b61782387f81bcc538a0284cf2bb5d7995cd0a80
+  RxBlocking: 2aeca7652be8addf4043567fa6b01ae3905eac2c
+  RxCocoa: 5012df8ca246c9b4f0a76071c1fb275374eabae8
+  RxSwift: 76dbcb12e55197533f8ace2af887511d7c9262dc
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.39.0
